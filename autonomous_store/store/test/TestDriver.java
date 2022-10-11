@@ -3,10 +3,7 @@ package com.cscie97.store.test;
 import com.cscie97.store.model.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
- *
+
  * TestDriver.java
  * TestDriver Class exists to feed CommandProcessor a file.
  **/
