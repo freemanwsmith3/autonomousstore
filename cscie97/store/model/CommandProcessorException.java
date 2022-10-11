@@ -3,9 +3,6 @@ import java.io.*;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * CommandProcessorException.java
  * CommandProcessorException Class exists to return from Command Processor

@@ -2,10 +2,7 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
- *
+
  * Basket.java
  * Basket implements the functions of a basket. The Aisle holds a Map of its products and their count.
  * It holds variables unique to its basket as many baskets can be created within different stores with different customers.

@@ -3,9 +3,6 @@ import com.cscie97.store.model.*;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 3
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * Device.java
  * Device implements the functions of a device.

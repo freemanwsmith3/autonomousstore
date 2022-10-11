@@ -3,9 +3,6 @@ import java.util.*;
 import java.io.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * StoreException.java
  * StoreException Class exists to return from Store

@@ -2,10 +2,6 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
- *
  * Store.java
  * Store implements the functions of a store. The Store instantiates its aisles and shelves.
  * It holds variables unique to its store as many stores can be created within the overall Service.

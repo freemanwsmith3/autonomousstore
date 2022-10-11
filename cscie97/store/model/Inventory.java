@@ -2,9 +2,6 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * Inventory.java
  * Inventory implements the attributes of managing inventory. Inventory  carries its own information, including

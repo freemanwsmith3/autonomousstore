@@ -2,9 +2,7 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 3
- * @ author Freeman Smith
- *
+
  * EventType.java
  * EventType is an enum class for events
  **/

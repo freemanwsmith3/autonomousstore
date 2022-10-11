@@ -2,10 +2,6 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
- *
  * Appliance.java
  * Appliance implements the functions of an appliance. Appliance inherits from Device.
  * It holds variables unique to its appliances.

@@ -4,12 +4,6 @@ import java.util.*;
 
 /**
  * 
- * Freeman Smith utilizing Ellen's work
- * 
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
- *
  * Store24X7Service.java
  * Store24X7Service implements the Service. The Service manages the overall service.
  * It is primarily responsible for managing the state of the stores.
@@ -557,7 +551,6 @@ public class Store24X7Service {
     return deviceMap.get(id);
   }
 
-  //This is freeman's work for assignment 3
   /** This method is used to create an event/just a placeholder for now.
 
    */

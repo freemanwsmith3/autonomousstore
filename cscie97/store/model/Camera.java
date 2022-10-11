@@ -2,9 +2,6 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * Camera.java
  * Sensor implements the functions of a sensor. Camera inherits from Sensor.

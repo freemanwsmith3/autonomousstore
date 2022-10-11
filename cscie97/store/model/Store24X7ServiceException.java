@@ -4,9 +4,6 @@ import java.io.*;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * Store24X7ServiceException.java
  * Store24X7ServiceException Class exists to return from Store24X7Service

@@ -2,10 +2,6 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
- *
  * Speaker.java
  * Speaker implements the functions of an appliance. Speaker inherits from Appliance.
  * It holds variables unique to speakers.

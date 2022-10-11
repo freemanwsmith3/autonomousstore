@@ -4,9 +4,6 @@ import java.io.*;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * CommandProcessor.java
  * CommandProcessor Class exists to feed the Store24X7Service a set of operations.

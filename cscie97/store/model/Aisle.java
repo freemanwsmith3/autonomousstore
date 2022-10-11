@@ -2,9 +2,6 @@ package com.cscie97.store.model;
 import java.util.*;
 
 /**
- * CSCIE-97 Assignment 2
- * @ author Ellen Siminoff
- * @ date 09/30/2021
  *
  * Aisle.java
  * Aisle implements the functions of an aisle. The Aisle holds a list of its shelves.
